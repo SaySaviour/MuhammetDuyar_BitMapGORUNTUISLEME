@@ -1,0 +1,10 @@
+C:\Users\Excalibur\Desktop\C# Başlangıç\Muhammet_Duyar[ÖDEV2]\Muhammet_Duyar[ÖDEV2]\bin\Debug\Muhammet_Duyar[ÖDEV2].exe.config
+C:\Users\Excalibur\Desktop\C# Başlangıç\Muhammet_Duyar[ÖDEV2]\Muhammet_Duyar[ÖDEV2]\bin\Debug\Muhammet_Duyar[ÖDEV2].exe
+C:\Users\Excalibur\Desktop\C# Başlangıç\Muhammet_Duyar[ÖDEV2]\Muhammet_Duyar[ÖDEV2]\bin\Debug\Muhammet_Duyar[ÖDEV2].pdb
+C:\Users\Excalibur\Desktop\C# Başlangıç\Muhammet_Duyar[ÖDEV2]\Muhammet_Duyar[ÖDEV2]\obj\Debug\Muhammet_Duyar[ÖDEV2].csprojAssemblyReference.cache
+C:\Users\Excalibur\Desktop\C# Başlangıç\Muhammet_Duyar[ÖDEV2]\Muhammet_Duyar[ÖDEV2]\obj\Debug\Muhammet_Duyar_ÖDEV2_.Form1.resources
+C:\Users\Excalibur\Desktop\C# Başlangıç\Muhammet_Duyar[ÖDEV2]\Muhammet_Duyar[ÖDEV2]\obj\Debug\Muhammet_Duyar_ÖDEV2_.Properties.Resources.resources
+C:\Users\Excalibur\Desktop\C# Başlangıç\Muhammet_Duyar[ÖDEV2]\Muhammet_Duyar[ÖDEV2]\obj\Debug\Muhammet_Duyar[ÖDEV2].csproj.GenerateResource.cache
+C:\Users\Excalibur\Desktop\C# Başlangıç\Muhammet_Duyar[ÖDEV2]\Muhammet_Duyar[ÖDEV2]\obj\Debug\Muhammet_Duyar[ÖDEV2].csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\Desktop\C# Başlangıç\Muhammet_Duyar[ÖDEV2]\Muhammet_Duyar[ÖDEV2]\obj\Debug\Muhammet_Duyar[ÖDEV2].exe
+C:\Users\Excalibur\Desktop\C# Başlangıç\Muhammet_Duyar[ÖDEV2]\Muhammet_Duyar[ÖDEV2]\obj\Debug\Muhammet_Duyar[ÖDEV2].pdb
